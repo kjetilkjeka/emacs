@@ -45,6 +45,7 @@
 ;;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
+(column-number-mode 1)
 (tool-bar-mode -1) ;; removes the tool bar
 ;; (cua-mode 1) ;; Allows C-c, C-v and C-z for copy/paste
 (scroll-bar-mode -1)
